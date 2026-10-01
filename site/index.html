@@ -1,0 +1,108 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Australia 2027 · Alex y Montse</title>
+<meta name="description" content="Guía de viaje día a día: Victoria, Trópico Norte y Tasmania. 28 feb – 19 mar 2027.">
+<meta name="theme-color" content="#f6f0e6" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#0b1820" media="(prefers-color-scheme: dark)">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Ccircle cx='32' cy='32' r='30' fill='%23d4643b'/%3E%3Cpath d='M14 40c6-10 12-14 18-14s12 4 18 14' stroke='%23fff' stroke-width='5' fill='none' stroke-linecap='round'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300..800;1,9..144,300..700&family=Manrope:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
+<link rel="stylesheet" href="css/style.css">
+<script>try{var t=localStorage.getItem('au-theme');if(t)document.documentElement.dataset.theme=t}catch(e){}</script>
+</head>
+<body>
+<a class="skip" href="#dias">Saltar al día a día</a>
+
+<header class="topbar" id="topbar">
+  <a class="brand" href="#inicio"><span class="brand-dot"></span>Australia <em>’27</em></a>
+  <nav class="topnav" aria-label="Secciones">
+    <a href="#mapa">Mapa</a><a href="#tramos">Tramos</a><a href="#dias">Día a día</a>
+  </nav>
+  <button class="theme-btn" id="themeBtn" type="button" aria-label="Cambiar tema claro/oscuro">
+    <svg class="i-sun" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="4.5"/><path d="M12 1.5v3M12 19.5v3M4.2 4.2l2.1 2.1M17.7 17.7l2.1 2.1M1.5 12h3M19.5 12h3M4.2 19.8l2.1-2.1M17.7 6.3l2.1-2.1"/></svg>
+    <svg class="i-moon" viewBox="0 0 24 24" aria-hidden="true"><path d="M20.5 14.5A8.5 8.5 0 0 1 9.5 3.5a8.5 8.5 0 1 0 11 11z"/></svg>
+  </button>
+</header>
+
+<main>
+  <section class="hero" id="inicio">
+    <div class="hero-media" id="heroMedia"></div>
+    <div class="hero-shade"></div>
+    <div class="hero-inner wrap">
+      <p class="kicker">Cuaderno de viaje · 28 feb — 19 mar 2027</p>
+      <h1>Australia<span>del océano austral a la selva, y a Tasmania al atardecer</span></h1>
+      <p class="hero-who">Alex &amp; Montse</p>
+      <dl class="hero-stats" id="heroStats"></dl>
+    </div>
+    <p class="hero-credit" id="heroCredit"></p>
+  </section>
+
+  <section class="section wrap" id="mapa">
+    <header class="sec-head">
+      <p class="eyebrow">El viaje de un vistazo</p>
+      <h2>Tres tramos, un continente</h2>
+      <p class="lede">Victoria en dos bucles, el trópico de Queensland y Tasmania en camper. Las rutas están calculadas sobre carreteras reales; los arcos son los vuelos.</p>
+    </header>
+    <div class="overview">
+      <div class="map map-overview" id="mapOverview" role="region" aria-label="Mapa general de Australia"></div>
+      <div class="legend" id="overviewLegend"></div>
+    </div>
+    <div class="flights" id="flights"></div>
+  </section>
+
+  <section class="section wrap" id="tramos">
+    <header class="sec-head">
+      <p class="eyebrow">Los tramos</p>
+      <h2>Dónde vais y dónde dormís</h2>
+    </header>
+    <div class="tramos" id="tramoList"></div>
+  </section>
+
+  <section class="section wrap" id="dias">
+    <header class="sec-head">
+      <p class="eyebrow">Día a día</p>
+      <h2>Veinte días, uno por uno</h2>
+      <p class="lede">Tocad un día para abrirlo. Kilómetros y horas de conducción calculados con OSRM sobre la ruta real. Marcad “visto” al terminar el día: se guarda en este dispositivo.</p>
+    </header>
+    <div class="toolbar" id="toolbar">
+      <div class="chips" role="group" aria-label="Filtrar por tramo">
+        <button class="chip is-on" data-filter="all" type="button">Todos</button>
+        <button class="chip" data-filter="victoria" type="button"><i class="sw sw-victoria"></i>Victoria</button>
+        <button class="chip" data-filter="tropico" type="button"><i class="sw sw-tropico"></i>Trópico</button>
+        <button class="chip" data-filter="tasmania" type="button"><i class="sw sw-tasmania"></i>Tasmania</button>
+      </div>
+      <div class="toolbar-right">
+        <span class="progress" id="progress" aria-live="polite"></span>
+        <button class="btn-ghost" id="toggleAll" type="button"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 9l5-5 5 5M7 15l5 5 5-5"/></svg><span>Abrir todos</span></button>
+      </div>
+    </div>
+    <div class="days" id="dayList"></div>
+  </section>
+</main>
+
+<footer class="footer">
+  <div class="wrap">
+    <p class="foot-title">Australia <em>’27</em></p>
+    <p>Mapas © <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>, © <a href="https://carto.com/attributions">CARTO</a>, Esri World Imagery, <a href="https://opentopomap.org">OpenTopoMap</a>. Rutas calculadas con <a href="https://project-osrm.org">OSRM</a>. Fotos de <a href="https://commons.wikimedia.org">Wikimedia Commons</a> con licencias libres.</p>
+    <details class="credits"><summary>Créditos de las fotos</summary><ol id="credits"></ol></details>
+    <p class="foot-note">Horarios, precios y condiciones cambian: confirmad reservas y estado de carreteras antes de cada día.</p>
+  </div>
+</footer>
+
+<div class="lightbox" id="lightbox" hidden>
+  <button class="lb-close" type="button" aria-label="Cerrar">×</button>
+  <button class="lb-nav lb-prev" type="button" aria-label="Anterior">‹</button>
+  <figure><img alt=""><figcaption></figcaption></figure>
+  <button class="lb-nav lb-next" type="button" aria-label="Siguiente">›</button>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+<script src="js/config.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>

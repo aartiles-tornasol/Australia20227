@@ -1,0 +1,122 @@
+{
+ "0": {
+  "driveKm": 0,
+  "driveMin": 0,
+  "walkKm": 0,
+  "walkMin": 0
+ },
+ "1": {
+  "driveKm": 0,
+  "driveMin": 0,
+  "walkKm": 4.3,
+  "walkMin": 57
+ },
+ "2": {
+  "driveKm": 214,
+  "driveMin": 220,
+  "walkKm": 0,
+  "walkMin": 0
+ },
+ "3": {
+  "driveKm": 124,
+  "driveMin": 126,
+  "walkKm": 0,
+  "walkMin": 0
+ },
+ "4": {
+  "driveKm": 257,
+  "driveMin": 214,
+  "walkKm": 0,
+  "walkMin": 0
+ },
+ "5": {
+  "driveKm": 0,
+  "driveMin": 0,
+  "walkKm": 0.3,
+  "walkMin": 3
+ },
+ "6": {
+  "driveKm": 0,
+  "driveMin": 0,
+  "walkKm": 0,
+  "walkMin": 0
+ },
+ "7": {
+  "driveKm": 113,
+  "driveMin": 123,
+  "walkKm": 0,
+  "walkMin": 0
+ },
+ "8": {
+  "driveKm": 198,
+  "driveMin": 286,
+  "walkKm": 0,
+  "walkMin": 0
+ },
+ "9": {
+  "driveKm": 220,
+  "driveMin": 200,
+  "walkKm": 0,
+  "walkMin": 0
+ },
+ "10": {
+  "driveKm": 97,
+  "driveMin": 151,
+  "walkKm": 0,
+  "walkMin": 0
+ },
+ "11": {
+  "driveKm": 221,
+  "driveMin": 194,
+  "walkKm": 0,
+  "walkMin": 0
+ },
+ "12": {
+  "driveKm": 21,
+  "driveMin": 47,
+  "walkKm": 2.9,
+  "walkMin": 86
+ },
+ "13": {
+  "driveKm": 94,
+  "driveMin": 105,
+  "walkKm": 2.1,
+  "walkMin": 62
+ },
+ "14": {
+  "driveKm": 151,
+  "driveMin": 140,
+  "walkKm": 0,
+  "walkMin": 0
+ },
+ "15": {
+  "driveKm": 459,
+  "driveMin": 366,
+  "walkKm": 0,
+  "walkMin": 0
+ },
+ "16": {
+  "driveKm": 174,
+  "driveMin": 179,
+  "walkKm": 0,
+  "walkMin": 0
+ },
+ "17": {
+  "driveKm": 161,
+  "driveMin": 180,
+  "walkKm": 0,
+  "walkMin": 0
+ },
+ "18": {
+  "driveKm": 245,
+  "driveMin": 210,
+  "walkKm": 0,
+  "walkMin": 0
+ },
+ "19": {
+  "driveKm": 0,
+  "driveMin": 0,
+  "walkKm": 0,
+  "walkMin": 0
+ }
+}

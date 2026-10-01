@@ -1,0 +1,11 @@
+# Artefactos de trabajo del build (se regeneran)
+build/cand/
+build/sheets/
+build/shots/
+build/osm/
+build/__pycache__/
+build/fetch.log
+build/dbg.js
+build/osrm_cache.json
+build/*.log
+build/ovf*.js

@@ -1,0 +1,3130 @@
+{
+"Melbourne Airport": [
+{
+"place_id": 22021399,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 2414910,
+"lat": "-37.6764488",
+"lon": "144.8365383",
+"class": "boundary",
+"type": "administrative",
+"place_rank": 18,
+"importance": 0.5191883281711132,
+"addresstype": "suburb",
+"name": "Melbourne Airport",
+"display_name": "Melbourne Airport, Melbourne, Victoria, 3045, Australia",
+"boundingbox": [
+"-37.7103810",
+"-37.6409820",
+"144.7976150",
+"144.8742380"
+]
+},
+{
+"place_id": 22167050,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "way",
+"osm_id": 305804278,
+"lat": "-37.6667554",
+"lon": "144.8288501",
+"class": "aeroway",
+"type": "aerodrome",
+"place_rank": 30,
+"importance": 0.5191883281711132,
+"addresstype": "aeroway",
+"name": "Melbourne Airport",
+"display_name": "Melbourne Airport, Providence Road, Greenvale, Melbourne, Victoria, 3059, Australia",
+"boundingbox": [
+"-37.6929656",
+"-37.6412234",
+"144.7977829",
+"144.8694531"
+]
+}
+],
+"Melbourne": [
+{
+"place_id": 425605431,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 4246124,
+"lat": "-37.8142454",
+"lon": "144.9631732",
+"class": "place",
+"type": "city",
+"place_rank": 16,
+"importance": 0.763077479403244,
+"addresstype": "city",
+"name": "Melbourne",
+"display_name": "Melbourne, Victoria, Australia",
+"boundingbox": [
+"-38.4993700",
+"-37.4017500",
+"144.4440500",
+"146.1925000"
+]
+},
+{
+"place_id": 22297510,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 2404870,
+"lat": "-37.8123825",
+"lon": "144.9482613",
+"class": "boundary",
+"type": "administrative",
+"place_rank": 12,
+"importance": 0.45998972565190827,
+"addresstype": "administrative",
+"name": "City of Melbourne",
+"display_name": "City of Melbourne, Melbourne, Victoria, Australia",
+"boundingbox": [
+"-37.8506670",
+"-37.7754510",
+"144.8969810",
+"144.9913462"
+]
+},
+{
+"place_id": 22263913,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 2383266,
+"lat": "-37.8141705",
+"lon": "144.9655616",
+"class": "boundary",
+"type": "administrative",
+"place_rank": 18,
+"importance": 0.44854900924452645,
+"addresstype": "suburb",
+"name": "Melbourne",
+"display_name": "Melbourne, Victoria, Australia",
+"boundingbox": [
+"-37.8555270",
+"-37.7994460",
+"144.9514311",
+"144.9890970"
+]
+}
+],
+"Queen Victoria Market": [
+{
+"place_id": 22453244,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "way",
+"osm_id": 113434071,
+"lat": "-37.8073881",
+"lon": "144.9573918",
+"class": "amenity",
+"type": "marketplace",
+"place_rank": 30,
+"importance": 0.3618648643770844,
+"addresstype": "amenity",
+"name": "Queen Victoria Market",
+"display_name": "Queen Victoria Market, Queen Street, Melbourne, Victoria, 3000, Australia",
+"boundingbox": [
+"-37.8089759",
+"-37.8060036",
+"144.9556841",
+"144.9597393"
+]
+},
+{
+"place_id": 22294503,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "way",
+"osm_id": 25467961,
+"lat": "-37.8069984",
+"lon": "144.9569511",
+"class": "amenity",
+"type": "marketplace",
+"place_rank": 30,
+"importance": 0.3618648643770844,
+"addresstype": "amenity",
+"name": "Queen Victoria Market",
+"display_name": "Queen Victoria Market, Peel Street, Melbourne, Victoria, 3000, Australia",
+"boundingbox": [
+"-37.8080057",
+"-37.8060326",
+"144.9558732",
+"144.9580240"
+]
+},
+{
+"place_id": 22351270,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "way",
+"osm_id": 25467962,
+"lat": "-37.8069165",
+"lon": "144.9589489",
+"class": "amenity",
+"type": "marketplace",
+"place_rank": 30,
+"importance": 8.045242999919154e-05,
+"addresstype": "amenity",
+"name": "Queen Victoria Market",
+"display_name": "Queen Victoria Market, Elizabeth Street, Melbourne, Victoria, 3000, Australia",
+"boundingbox": [
+"-37.8074344",
+"-37.8062827",
+"144.9582329",
+"144.9596733"
+]
+}
+],
+"Hosier Lane, Melbourne": [
+{
+"place_id": 22783673,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "way",
+"osm_id": 13858293,
+"lat": "-37.8163585",
+"lon": "144.9690767",
+"class": "highway",
+"type": "service",
+"place_rank": 27,
+"importance": 0.040080452429999226,
+"addresstype": "road",
+"name": "Hosier Lane",
+"display_name": "Hosier Lane, East End Theatre District, Melbourne, Victoria, 3000, Australia",
+"boundingbox": [
+"-37.8167949",
+"-37.8159190",
+"144.9688750",
+"144.9692849"
+]
+},
+{
+"place_id": 21957551,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "way",
+"osm_id": 1184568864,
+"lat": "-37.5233111",
+"lon": "144.9011179",
+"class": "highway",
+"type": "service",
+"place_rank": 27,
+"importance": 0.040080452429999226,
+"addresstype": "road",
+"name": "Hosier Lane",
+"display_name": "Hosier Lane, Merrifield, Mickleham, Melbourne, Victoria, 3064, Australia",
+"boundingbox": [
+"-37.5236204",
+"-37.5230017",
+"144.9009319",
+"144.9013038"
+]
+},
+{
+"place_id": 22444845,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "way",
+"osm_id": 1436306588,
+"lat": "-37.8168201",
+"lon": "144.9692967",
+"class": "highway",
+"type": "service",
+"place_rank": 27,
+"importance": 0.040080452429999226,
+"addresstype": "road",
+"name": "Hosier Lane",
+"display_name": "Hosier Lane, Melbourne, Victoria, 3000, Australia",
+"boundingbox": [
+"-37.8168453",
+"-37.8167949",
+"144.9692849",
+"144.9693086"
+]
+}
+],
+"Federation Square": [
+{
+"place_id": 22496637,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "way",
+"osm_id": 1098427843,
+"lat": "-37.8177396",
+"lon": "144.9691559",
+"class": "place",
+"type": "square",
+"place_rank": 25,
+"importance": 0.40540706245566294,
+"addresstype": "square",
+"name": "Federation Square",
+"display_name": "Federation Square, Melbourne, Victoria, Australia",
+"boundingbox": [
+"-37.8187282",
+"-37.8168029",
+"144.9676713",
+"144.9709395"
+]
+},
+{
+"place_id": 23568348,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "way",
+"osm_id": 775901282,
+"lat": "-33.9519425",
+"lon": "150.9452662",
+"class": "leisure",
+"type": "park",
+"place_rank": 24,
+"importance": 0.08008246051728081,
+"addresstype": "park",
+"name": "Federation Square",
+"display_name": "Federation Square, Wattle Grove, Sydney, New South Wales, 2173, Australia",
+"boundingbox": [
+"-33.9521799",
+"-33.9515742",
+"150.9447435",
+"150.9454791"
+]
+}
+],
+"Royal Botanic Gardens Victoria": [
+{
+"place_id": 22346862,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "way",
+"osm_id": 45422277,
+"lat": "-37.8294561",
+"lon": "144.9813155",
+"class": "leisure",
+"type": "garden",
+"place_rank": 25,
+"importance": 0.3925477355191416,
+"addresstype": "garden",
+"name": "Royal Botanic Gardens",
+"display_name": "Royal Botanic Gardens, Melbourne, Victoria, Australia",
+"boundingbox": [
+"-37.8334357",
+"-37.8255427",
+"144.9744620",
+"144.9846401"
+]
+}
+],
+"St Kilda Pier": [
+{
+"place_id": 22540347,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "way",
+"osm_id": 1006723859,
+"lat": "-37.8637745",
+"lon": "144.9656789",
+"class": "highway",
+"type": "path",
+"place_rank": 27,
+"importance": 0.04004737239642938,
+"addresstype": "road",
+"name": "St.Kilda Pier",
+"display_name": "St.Kilda Pier, Victoria, 3182, Australia",
+"boundingbox": [
+"-37.8646302",
+"-37.8635295",
+"144.9655708",
+"144.9660865"
+]
+},
+{
+"place_id": 22624928,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "way",
+"osm_id": 1032397305,
+"lat": "-37.8646707",
+"lon": "144.9689179",
+"class": "man_made",
+"type": "pier",
+"place_rank": 30,
+"importance": 4.7372396429343365e-05,
+"addresstype": "man_made",
+"name": "St Kilda Pier",
+"display_name": "St Kilda Pier, St.Kilda Pier, Victoria, 3182, Australia",
+"boundingbox": [
+"-37.8650740",
+"-37.8644160",
+"144.9655326",
+"144.9704872"
+]
+}
+],
+"Bells Beach": [
+{
+"place_id": 19263564,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 2732097,
+"lat": "-38.3767080",
+"lon": "144.2519506",
+"class": "boundary",
+"type": "administrative",
+"place_rank": 18,
+"importance": 0.3567097398182398,
+"addresstype": "city_district",
+"name": "Bells Beach",
+"display_name": "Bells Beach, Victoria, Australia",
+"boundingbox": [
+"-38.3989100",
+"-38.3550920",
+"144.2292370",
+"144.2924490"
+]
+},
+{
+"place_id": 27639449,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 1061150,
+"lat": "-27.2568988",
+"lon": "153.0908530",
+"class": "natural",
+"type": "beach",
+"place_rank": 22,
+"importance": 0.10671666819256884,
+"addresstype": "beach",
+"name": "Bells Beach",
+"display_name": "Bells Beach, Clontarf, Brisbane, Queensland, Australia",
+"boundingbox": [
+"-27.2574367",
+"-27.2562568",
+"153.0896435",
+"153.0928974"
+]
+},
+{
+"place_id": 19288774,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "way",
+"osm_id": 231460324,
+"lat": "-38.3689849",
+"lon": "144.2824517",
+"class": "natural",
+"type": "beach",
+"place_rank": 22,
+"importance": 0.10669266727702752,
+"addresstype": "beach",
+"name": "Bells Beach",
+"display_name": "Bells Beach, Victoria, 3228, Australia",
+"boundingbox": [
+"-38.3701512",
+"-38.3678002",
+"144.2815536",
+"144.2850248"
+]
+}
+],
+"Split Point Lighthouse": [
+{
+"place_id": 19480763,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 831201041,
+"lat": "-38.4680026",
+"lon": "144.1044680",
+"class": "man_made",
+"type": "lighthouse",
+"place_rank": 30,
+"importance": 0.22697289548003588,
+"addresstype": "man_made",
+"name": "Split Point Lighthouse",
+"display_name": "Split Point Lighthouse, Surf Coast Walk, Aireys Inlet, Victoria, 3231, Australia",
+"boundingbox": [
+"-38.4680526",
+"-38.4679526",
+"144.1044180",
+"144.1045180"
+]
+}
+],
+"Memorial Arch Eastern View": [
+{
+"place_id": 19256031,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 2874367205,
+"lat": "-38.4719983",
+"lon": "144.0446881",
+"class": "historic",
+"type": "memorial",
+"place_rank": 30,
+"importance": 4.757076371400042e-05,
+"addresstype": "historic",
+"name": "Memorial Arch - Eastern View",
+"display_name": "Memorial Arch - Eastern View, Great Ocean Road, Victoria, 3231, Australia",
+"boundingbox": [
+"-38.4720483",
+"-38.4719483",
+"144.0446381",
+"144.0447381"
+]
+}
+],
+"Lorne, Victoria": [
+{
+"place_id": 19492524,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 2732599,
+"lat": "-38.5411691",
+"lon": "143.9748166",
+"class": "boundary",
+"type": "administrative",
+"place_rank": 18,
+"importance": 0.35049604782988514,
+"addresstype": "town",
+"name": "Lorne",
+"display_name": "Lorne, Victoria, 3232, Australia",
+"boundingbox": [
+"-38.5794290",
+"-38.4671460",
+"143.8245330",
+"144.0122220"
+]
+}
+],
+"Erskine Falls": [
+{
+"place_id": 19171609,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 1559034104,
+"lat": "-38.5067063",
+"lon": "143.9132314",
+"class": "waterway",
+"type": "waterfall",
+"place_rank": 20,
+"importance": 0.13338090409704736,
+"addresstype": "waterfall",
+"name": "Erskine Falls",
+"display_name": "Erskine Falls, Lorne, Victoria, 3232, Australia",
+"boundingbox": [
+"-38.5067563",
+"-38.5066563",
+"143.9131814",
+"143.9132814"
+]
+}
+],
+"Kennett River": [
+{
+"place_id": 19481927,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 11691453,
+"lat": "-38.6676956",
+"lon": "143.8589200",
+"class": "boundary",
+"type": "administrative",
+"place_rank": 18,
+"importance": 0.2636224323479305,
+"addresstype": "hamlet",
+"name": "Kennett River",
+"display_name": "Kennett River, Victoria, Australia",
+"boundingbox": [
+"-38.6823850",
+"-38.6016580",
+"143.7427860",
+"143.8663730"
+]
+},
+{
+"place_id": 19431860,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "way",
+"osm_id": 45689179,
+"lat": "-38.6423035",
+"lon": "143.8146477",
+"class": "waterway",
+"type": "river",
+"place_rank": 19,
+"importance": 0.1467140115968566,
+"addresstype": "river",
+"name": "Kennett River",
+"display_name": "Kennett River, Victoria, Australia",
+"boundingbox": [
+"-38.6691318",
+"-38.6147798",
+"143.7688451",
+"143.8634923"
+]
+}
+],
+"Apollo Bay": [
+{
+"place_id": 19418978,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 2738119,
+"lat": "-38.7547442",
+"lon": "143.6691463",
+"class": "boundary",
+"type": "administrative",
+"place_rank": 18,
+"importance": 0.3415289282979405,
+"addresstype": "town",
+"name": "Apollo Bay",
+"display_name": "Apollo Bay, Victoria, 3233, Australia",
+"boundingbox": [
+"-38.7944410",
+"-38.6777390",
+"143.5863260",
+"143.7057700"
+]
+},
+{
+"place_id": 24409238,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 10627566,
+"lat": "-43.1598391",
+"lon": "147.2853393",
+"class": "boundary",
+"type": "administrative",
+"place_rank": 18,
+"importance": 0.133379863431754,
+"addresstype": "hamlet",
+"name": "Apollo Bay",
+"display_name": "Apollo Bay, Tasmania, Australia",
+"boundingbox": [
+"-43.1715070",
+"-43.1576503",
+"147.2759809",
+"147.3044170"
+]
+},
+{
+"place_id": 19460770,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 3020491051,
+"lat": "-38.7513600",
+"lon": "143.6756600",
+"class": "natural",
+"type": "bay",
+"place_rank": 22,
+"importance": 0.10671401159685662,
+"addresstype": "bay",
+"name": "Apollo Bay",
+"display_name": "Apollo Bay, Victoria, 3233, Australia",
+"boundingbox": [
+"-38.7514100",
+"-38.7513100",
+"143.6756100",
+"143.6757100"
+]
+}
+],
+"Maits Rest": [
+{
+"place_id": 19252647,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "way",
+"osm_id": 284759253,
+"lat": "-38.7558846",
+"lon": "143.5544606",
+"class": "amenity",
+"type": "parking",
+"place_rank": 30,
+"importance": 4.7344930189929314e-05,
+"addresstype": "amenity",
+"name": "Maits Rest",
+"display_name": "Maits Rest, Maits Rest Rainforest Walk, Victoria, Australia",
+"boundingbox": [
+"-38.7561214",
+"-38.7556353",
+"143.5541157",
+"143.5547457"
+]
+},
+{
+"place_id": 19162316,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 13442349282,
+"lat": "-38.7558162",
+"lon": "143.5546964",
+"class": "information",
+"type": "board",
+"place_rank": 30,
+"importance": 4.7344930189929314e-05,
+"addresstype": "information",
+"name": "Maits Rest",
+"display_name": "Maits Rest, Maits Rest Rainforest Walk, Victoria, Australia",
+"boundingbox": [
+"-38.7558662",
+"-38.7557662",
+"143.5546464",
+"143.5547464"
+]
+},
+{
+"place_id": 19273385,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 13442349283,
+"lat": "-38.7555992",
+"lon": "143.5552496",
+"class": "tourism",
+"type": "attraction",
+"place_rank": 30,
+"importance": 4.7344930189929314e-05,
+"addresstype": "tourism",
+"name": "Maits Rest",
+"display_name": "Maits Rest, Maits Rest Rainforest Walk, Victoria, Australia",
+"boundingbox": [
+"-38.7556492",
+"-38.7555492",
+"143.5551996",
+"143.5552996"
+]
+}
+],
+"Cape Otway Lighthouse": [
+{
+"place_id": 19283263,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "way",
+"osm_id": 533892694,
+"lat": "-38.8567813",
+"lon": "143.5118194",
+"class": "building",
+"type": "yes",
+"place_rank": 30,
+"importance": 0.22052600253021823,
+"addresstype": "building",
+"name": "Cape Otway Lighthouse",
+"display_name": "Cape Otway Lighthouse, Great Ocean Walk, Victoria, Australia",
+"boundingbox": [
+"-38.8568095",
+"-38.8567536",
+"143.5117833",
+"143.5118554"
+]
+}
+],
+"Gibson Steps": [
+{
+"place_id": 20436314,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 445537312,
+"lat": "-38.6686286",
+"lon": "143.1121047",
+"class": "tourism",
+"type": "viewpoint",
+"place_rank": 30,
+"importance": 4.691157396806313e-05,
+"addresstype": "tourism",
+"name": "Gibson Steps",
+"display_name": "Gibson Steps, The Gibson Steps, Princetown, Victoria, 3269, Australia",
+"boundingbox": [
+"-38.6686786",
+"-38.6685786",
+"143.1120547",
+"143.1121547"
+]
+}
+],
+"Twelve Apostles Visitor Centre": [
+{
+"place_id": 19441753,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 4717806929,
+"lat": "-38.6621492",
+"lon": "143.1050996",
+"class": "information",
+"type": "office",
+"place_rank": 30,
+"importance": 9.99999999995449e-06,
+"addresstype": "information",
+"name": "Twelve Apostles Visitor Centre Kiosk",
+"display_name": "Twelve Apostles Visitor Centre Kiosk, Great Ocean Road, Princetown, Victoria, 3269, Australia",
+"boundingbox": [
+"-38.6621992",
+"-38.6620992",
+"143.1050496",
+"143.1051496"
+]
+}
+],
+"Loch Ard Gorge": [
+{
+"place_id": 19412372,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "way",
+"osm_id": 185207780,
+"lat": "-38.6464071",
+"lon": "143.0703269",
+"class": "natural",
+"type": "beach",
+"place_rank": 22,
+"importance": 0.10671357824063475,
+"addresstype": "beach",
+"name": "Loch Ard Gorge",
+"display_name": "Loch Ard Gorge, Port Campbell, Victoria, 3269, Australia",
+"boundingbox": [
+"-38.6469701",
+"-38.6458783",
+"143.0699220",
+"143.0713010"
+]
+},
+{
+"place_id": 19408320,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 445537293,
+"lat": "-38.6470373",
+"lon": "143.0699185",
+"class": "natural",
+"type": "bay",
+"place_rank": 22,
+"importance": 0.10671357824063475,
+"addresstype": "bay",
+"name": "Loch Ard Gorge",
+"display_name": "Loch Ard Gorge, Victoria, 3269, Australia",
+"boundingbox": [
+"-38.6470873",
+"-38.6469873",
+"143.0698685",
+"143.0699685"
+]
+}
+],
+"Port Campbell": [
+{
+"place_id": 19699800,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 2743368,
+"lat": "-38.6196293",
+"lon": "142.9953660",
+"class": "boundary",
+"type": "administrative",
+"place_rank": 18,
+"importance": 0.308429648456196,
+"addresstype": "town",
+"name": "Port Campbell",
+"display_name": "Port Campbell, Victoria, Australia",
+"boundingbox": [
+"-38.6513670",
+"-38.5747920",
+"142.9368250",
+"143.1112050"
+]
+}
+],
+"London Arch": [
+{
+"place_id": 19368171,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "way",
+"osm_id": 290320559,
+"lat": "-38.6240905",
+"lon": "142.9304060",
+"class": "place",
+"type": "island",
+"place_rank": 17,
+"importance": 0.1733593339436942,
+"addresstype": "island",
+"name": "London Arch",
+"display_name": "London Arch, Peterborough, Victoria, 3270, Australia",
+"boundingbox": [
+"-38.6245253",
+"-38.6236460",
+"142.9297425",
+"142.9310698"
+]
+}
+],
+"The Grotto, Peterborough": [
+{
+"place_id": 19239684,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 5982692299,
+"lat": "-38.6165948",
+"lon": "142.9161083",
+"class": "information",
+"type": "board",
+"place_rank": 30,
+"importance": 4.691157396806313e-05,
+"addresstype": "information",
+"name": "The Grotto",
+"display_name": "The Grotto, The Grotto Track, Peterborough, Victoria, 3270, Australia",
+"boundingbox": [
+"-38.6166448",
+"-38.6165448",
+"142.9160583",
+"142.9161583"
+]
+},
+{
+"place_id": 19311642,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 1591510098,
+"lat": "-38.6183772",
+"lon": "142.9144722",
+"class": "tourism",
+"type": "viewpoint",
+"place_rank": 30,
+"importance": 2.6000610360830357e-05,
+"addresstype": "tourism",
+"name": "The Grotto",
+"display_name": "The Grotto, The Grotto Track, Peterborough, Victoria, 3270, Australia",
+"boundingbox": [
+"-38.6184272",
+"-38.6183272",
+"142.9144222",
+"142.9145222"
+]
+}
+],
+"Colac": [
+{
+"place_id": 19604346,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 3145220,
+"lat": "-38.3399766",
+"lon": "143.5858537",
+"class": "boundary",
+"type": "administrative",
+"place_rank": 18,
+"importance": 0.43802392276794555,
+"addresstype": "town",
+"name": "Colac",
+"display_name": "Colac, Victoria, 3250, Australia",
+"boundingbox": [
+"-38.3554290",
+"-38.2638100",
+"143.5523310",
+"143.6255750"
+]
+}
+],
+"Cairns Airport": [
+{
+"place_id": 27341680,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "way",
+"osm_id": 461758871,
+"lat": "-16.8779807",
+"lon": "145.7516278",
+"class": "aeroway",
+"type": "aerodrome",
+"place_rank": 30,
+"importance": 0.4814312788337345,
+"addresstype": "aeroway",
+"name": "Cairns Airport",
+"display_name": "Cairns Airport, Captain Cook Highway, Aeroglen, Cairns, Queensland, 4870, Australia",
+"boundingbox": [
+"-16.8936283",
+"-16.8623818",
+"145.7389546",
+"145.7608891"
+]
+}
+],
+"Cairns": [
+{
+"place_id": 27587365,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 29405229,
+"lat": "-16.9206657",
+"lon": "145.7721854",
+"class": "place",
+"type": "city",
+"place_rank": 16,
+"importance": 0.5814575373762947,
+"addresstype": "city",
+"name": "Cairns",
+"display_name": "Cairns, Queensland, 4870, Australia",
+"boundingbox": [
+"-17.0806657",
+"-16.7606657",
+"145.6121854",
+"145.9321854"
+]
+},
+{
+"place_id": 27493939,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 11677109,
+"lat": "-17.1022281",
+"lon": "145.7650465",
+"class": "boundary",
+"type": "administrative",
+"place_rank": 12,
+"importance": 0.41383259701480163,
+"addresstype": "administrative",
+"name": "Cairns Regional",
+"display_name": "Cairns Regional, Queensland, Australia",
+"boundingbox": [
+"-17.5060820",
+"-16.6984680",
+"145.6145880",
+"146.3106041"
+]
+}
+],
+"Cairns Esplanade Lagoon": [
+{
+"place_id": 27107014,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "way",
+"osm_id": 55293523,
+"lat": "-16.9196405",
+"lon": "145.7779761",
+"class": "leisure",
+"type": "swimming_pool",
+"place_rank": 30,
+"importance": 6.312123292892374e-05,
+"addresstype": "leisure",
+"name": "Cairns Esplanade Lagoon",
+"display_name": "Cairns Esplanade Lagoon, Esplanade, Cairns City, Cairns, Queensland, 4870, Australia",
+"boundingbox": [
+"-16.9203083",
+"-16.9190123",
+"145.7776940",
+"145.7782786"
+]
+}
+],
+"Cairns Night Markets": [
+{
+"place_id": 27684746,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 4230048191,
+"lat": "-16.9198892",
+"lon": "145.7770069",
+"class": "amenity",
+"type": "food_court",
+"place_rank": 30,
+"importance": 6.312123292892374e-05,
+"addresstype": "amenity",
+"name": "Cairns Night Markets",
+"display_name": "Cairns Night Markets, Esplanade, Cairns City, Cairns, Queensland, 4870, Australia",
+"boundingbox": [
+"-16.9199392",
+"-16.9198392",
+"145.7769569",
+"145.7770569"
+]
+}
+],
+"Reef Fleet Terminal": [
+{
+"place_id": 27413743,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 1939562763,
+"lat": "-16.9216604",
+"lon": "145.7804131",
+"class": "amenity",
+"type": "ferry_terminal",
+"place_rank": 30,
+"importance": 6.312123292892374e-05,
+"addresstype": "amenity",
+"name": "Reef Fleet Terminal",
+"display_name": "Reef Fleet Terminal, 11, Spence Street, Cairns City, Cairns, Queensland, 4870, Australia",
+"boundingbox": [
+"-16.9217104",
+"-16.9216104",
+"145.7803631",
+"145.7804631"
+]
+}
+],
+"Michaelmas Cay": [
+{
+"place_id": 27357262,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "way",
+"osm_id": 9051875,
+"lat": "-16.6065204",
+"lon": "145.9735941",
+"class": "place",
+"type": "islet",
+"place_rank": 20,
+"importance": 0.13338833524071106,
+"addresstype": "islet",
+"name": "Michaelmas Cay",
+"display_name": "Michaelmas Cay, Coral Sea, Queensland, 4800, Australia",
+"boundingbox": [
+"-16.6074165",
+"-16.6054768",
+"145.9724795",
+"145.9756695"
+]
+}
+],
+"Moore Reef": [
+{
+"place_id": 27469607,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "way",
+"osm_id": 219702962,
+"lat": "-16.8663951",
+"lon": "146.2447209",
+"class": "natural",
+"type": "reef",
+"place_rank": 22,
+"importance": 0.10671452277409016,
+"addresstype": "reef",
+"name": "Moore Reef",
+"display_name": "Moore Reef, Coral Sea, Queensland, 4800, Australia",
+"boundingbox": [
+"-16.8899674",
+"-16.8470916",
+"146.2120545",
+"146.2520516"
+]
+}
+],
+"Palm Cove": [
+{
+"place_id": 27500016,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 11677304,
+"lat": "-16.7444744",
+"lon": "145.6710279",
+"class": "boundary",
+"type": "administrative",
+"place_rank": 18,
+"importance": 0.3015950553092256,
+"addresstype": "suburb",
+"name": "Palm Cove",
+"display_name": "Palm Cove, Queensland, Australia",
+"boundingbox": [
+"-16.7612000",
+"-16.7300710",
+"145.6528140",
+"145.6825620"
+]
+},
+{
+"place_id": 27577617,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "way",
+"osm_id": 225871677,
+"lat": "-16.7546685",
+"lon": "145.6719842",
+"class": "natural",
+"type": "beach",
+"place_rank": 22,
+"importance": 0.10671452277409016,
+"addresstype": "beach",
+"name": "Palm Cove",
+"display_name": "Palm Cove, Queensland, 4879, Australia",
+"boundingbox": [
+"-16.7701035",
+"-16.7389101",
+"145.6711253",
+"145.6788001"
+]
+}
+],
+"Rex Lookout": [
+{
+"place_id": 27515667,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 286276766,
+"lat": "-16.6463621",
+"lon": "145.5655397",
+"class": "tourism",
+"type": "viewpoint",
+"place_rank": 30,
+"importance": 5.5001907377691576e-05,
+"addresstype": "tourism",
+"name": "Rex Lookout",
+"display_name": "Rex Lookout, Captain Cook Highway, Wangetti, Queensland, 4877, Australia",
+"boundingbox": [
+"-16.6464121",
+"-16.6463121",
+"145.5654897",
+"145.5655897"
+]
+}
+],
+"Four Mile Beach": [
+{
+"place_id": 27110844,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "way",
+"osm_id": 191557915,
+"lat": "-16.5070775",
+"lon": "145.4673824",
+"class": "natural",
+"type": "beach",
+"place_rank": 22,
+"importance": 0.10672166857404437,
+"addresstype": "beach",
+"name": "Four Mile Beach",
+"display_name": "Four Mile Beach, Craiglie, Port Douglas, Queensland, 4877, Australia",
+"boundingbox": [
+"-16.5279437",
+"-16.4855225",
+"145.4668576",
+"145.4772509"
+]
+},
+{
+"place_id": 423987646,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 11023576,
+"lat": "-41.7385385",
+"lon": "144.9855799",
+"class": "natural",
+"type": "sand",
+"place_rank": 22,
+"importance": 0.10671299534599829,
+"addresstype": "sand",
+"name": "Four Mile Beach",
+"display_name": "Four Mile Beach, Tasmania, Australia",
+"boundingbox": [
+"-41.7611488",
+"-41.7159726",
+"144.9469882",
+"145.0035453"
+]
+},
+{
+"place_id": 33575241,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 18182636,
+"lat": "-33.9264381",
+"lon": "120.0359508",
+"class": "natural",
+"type": "beach",
+"place_rank": 22,
+"importance": 0.10671294499122604,
+"addresstype": "beach",
+"name": "Four Mile Beach",
+"display_name": "Four Mile Beach, Hopetoun, Western Australia, 6348, Australia",
+"boundingbox": [
+"-33.9310475",
+"-33.9218117",
+"120.0340234",
+"120.0670084"
+]
+}
+],
+"Mossman Gorge Centre": [
+{
+"place_id": 27580465,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "way",
+"osm_id": 200690064,
+"lat": "-16.4742207",
+"lon": "145.3483316",
+"class": "information",
+"type": "office",
+"place_rank": 30,
+"importance": 5.5001907377691576e-05,
+"addresstype": "information",
+"name": "Mossman Gorge Centre",
+"display_name": "Mossman Gorge Centre, 212, Johnston Road, Mossman Gorge Aboriginal Community, Mossman Gorge, Queensland, 4873, Australia",
+"boundingbox": [
+"-16.4745288",
+"-16.4739189",
+"145.3480848",
+"145.3485690"
+]
+}
+],
+"Port Douglas": [
+{
+"place_id": 27100013,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 11677313,
+"lat": "-16.4845983",
+"lon": "145.4636294",
+"class": "boundary",
+"type": "administrative",
+"place_rank": 18,
+"importance": 0.39696805131781304,
+"addresstype": "town",
+"name": "Port Douglas",
+"display_name": "Port Douglas, Queensland, Australia",
+"boundingbox": [
+"-16.5300450",
+"-16.4678000",
+"145.4427680",
+"145.4828360"
+]
+},
+{
+"place_id": 18648100,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 3020493324,
+"lat": "-34.5510600",
+"lon": "135.3503400",
+"class": "natural",
+"type": "bay",
+"place_rank": 22,
+"importance": 0.10667666666666664,
+"addresstype": "bay",
+"name": "Port Douglas",
+"display_name": "Port Douglas, South Australia, Australia",
+"boundingbox": [
+"-34.5511100",
+"-34.5510100",
+"135.3502900",
+"135.3503900"
+]
+}
+],
+"Daintree, Queensland": [
+{
+"place_id": 27176344,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 11677348,
+"lat": "-16.2573220",
+"lon": "145.3320899",
+"class": "boundary",
+"type": "administrative",
+"place_rank": 18,
+"importance": 0.30663527500158994,
+"addresstype": "city_district",
+"name": "Daintree",
+"display_name": "Daintree, Daintree Village, Queensland, Australia",
+"boundingbox": [
+"-16.2736770",
+"-16.2407670",
+"145.3143980",
+"145.3462670"
+]
+},
+{
+"place_id": 27178091,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 6036337020,
+"lat": "-16.2577782",
+"lon": "145.3297272",
+"class": "place",
+"type": "locality",
+"place_rank": 25,
+"importance": 0.0667216685740444,
+"addresstype": "locality",
+"name": "Daintree",
+"display_name": "Daintree, Daintree Village, Queensland, 4873, Australia",
+"boundingbox": [
+"-16.2677782",
+"-16.2477782",
+"145.3197272",
+"145.3397272"
+]
+},
+{
+"place_id": 27086357,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "way",
+"osm_id": 173271431,
+"lat": "-16.2439414",
+"lon": "145.3221580",
+"class": "waterway",
+"type": "river",
+"place_rank": 19,
+"importance": 0.37978567549726355,
+"addresstype": "river",
+"name": "Daintree River",
+"display_name": "Daintree River, Daintree Village, Queensland, Australia",
+"boundingbox": [
+"-16.2890450",
+"-16.1533870",
+"145.2684656",
+"145.4538100"
+]
+}
+],
+"Daintree River Ferry": [
+{
+"place_id": 27299929,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 1988221222,
+"lat": "-16.2586517",
+"lon": "145.3988001",
+"class": "amenity",
+"type": "ferry_terminal",
+"place_rank": 30,
+"importance": 5.5001907377691576e-05,
+"addresstype": "amenity",
+"name": "Daintree River Ferry",
+"display_name": "Daintree River Ferry, Cape Tribulation Road, Forest Creek, Queensland, 4873, Australia",
+"boundingbox": [
+"-16.2587017",
+"-16.2586017",
+"145.3987501",
+"145.3988501"
+]
+},
+{
+"place_id": 27381211,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 1988221211,
+"lat": "-16.2608804",
+"lon": "145.3976426",
+"class": "amenity",
+"type": "ferry_terminal",
+"place_rank": 30,
+"importance": 5.5001907377691576e-05,
+"addresstype": "amenity",
+"name": "Daintree River Ferry",
+"display_name": "Daintree River Ferry, Cape Tribulation Road, Lower Daintree, Queensland, 4873, Australia",
+"boundingbox": [
+"-16.2609304",
+"-16.2608304",
+"145.3975926",
+"145.3976926"
+]
+}
+],
+"Walu Wugirriga Lookout": [
+{
+"place_id": 27452876,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 286463585,
+"lat": "-16.2458582",
+"lon": "145.4360408",
+"class": "tourism",
+"type": "viewpoint",
+"place_rank": 30,
+"importance": 5.5001907377691576e-05,
+"addresstype": "tourism",
+"name": "Mount Alexandra Lookout",
+"display_name": "Mount Alexandra Lookout, Cape Tribulation Road, Kimberley, Queensland, 4873, Australia",
+"boundingbox": [
+"-16.2459082",
+"-16.2458082",
+"145.4359908",
+"145.4360908"
+]
+}
+],
+"Daintree Discovery Centre": [
+{
+"place_id": 27480714,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "way",
+"osm_id": 202894164,
+"lat": "-16.2378815",
+"lon": "145.4281838",
+"class": "tourism",
+"type": "attraction",
+"place_rank": 30,
+"importance": 5.5001907377691576e-05,
+"addresstype": "tourism",
+"name": "Daintree Rainforest Discovery Centre",
+"display_name": "Daintree Rainforest Discovery Centre, Aerial Walkway, Cow Bay, Queensland, 4873, Australia",
+"boundingbox": [
+"-16.2379700",
+"-16.2377932",
+"145.4280935",
+"145.4282741"
+]
+}
+],
+"Cape Tribulation": [
+{
+"place_id": 27065508,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 11677361,
+"lat": "-16.0887845",
+"lon": "145.4622111",
+"class": "boundary",
+"type": "administrative",
+"place_rank": 18,
+"importance": 0.33557113795112237,
+"addresstype": "town",
+"name": "Cape Tribulation",
+"display_name": "Cape Tribulation, Queensland, Australia",
+"boundingbox": [
+"-16.1459560",
+"-15.9150000",
+"145.3616000",
+"145.4799410"
+]
+},
+{
+"place_id": 27277309,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 1913946401,
+"lat": "-16.0774343",
+"lon": "145.4747560",
+"class": "natural",
+"type": "cape",
+"place_rank": 22,
+"importance": 0.33557113795112237,
+"addresstype": "cape",
+"name": "Cape Tribulation",
+"display_name": "Cape Tribulation, Queensland, 4873, Australia",
+"boundingbox": [
+"-16.0774843",
+"-16.0773843",
+"145.4747060",
+"145.4748060"
+]
+}
+],
+"Mareeba": [
+{
+"place_id": 27371659,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 11677299,
+"lat": "-16.9932257",
+"lon": "145.4224301",
+"class": "boundary",
+"type": "administrative",
+"place_rank": 18,
+"importance": 0.406866891643569,
+"addresstype": "town",
+"name": "Mareeba",
+"display_name": "Mareeba, Queensland, Australia",
+"boundingbox": [
+"-17.1696930",
+"-16.9211220",
+"145.3713450",
+"145.6397000"
+]
+},
+{
+"place_id": 28839980,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 11677337,
+"lat": "-17.1295130",
+"lon": "143.9242190",
+"class": "boundary",
+"type": "administrative",
+"place_rank": 12,
+"importance": 0.38798267658459484,
+"addresstype": "administrative",
+"name": "Mareeba Shire",
+"display_name": "Mareeba Shire, Queensland, Australia",
+"boundingbox": [
+"-18.2162910",
+"-16.0425360",
+"142.1750120",
+"145.6736300"
+]
+}
+],
+"Millaa Millaa Falls": [
+{
+"place_id": 27347558,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 169526048,
+"lat": "-17.4957837",
+"lon": "145.6105955",
+"class": "waterway",
+"type": "waterfall",
+"place_rank": 20,
+"importance": 0.13338415121690697,
+"addresstype": "waterfall",
+"name": "Millaa Millaa Falls",
+"display_name": "Millaa Millaa Falls, Millaa Millaa, Queensland, 4886, Australia",
+"boundingbox": [
+"-17.4958337",
+"-17.4957337",
+"145.6105455",
+"145.6106455"
+]
+}
+],
+"Zillie Falls": [
+{
+"place_id": 27379490,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 3010088523,
+"lat": "-17.4748898",
+"lon": "145.6564467",
+"class": "waterway",
+"type": "waterfall",
+"place_rank": 20,
+"importance": 0.13338415121690697,
+"addresstype": "waterfall",
+"name": "Zillie Falls",
+"display_name": "Zillie Falls, Millaa Millaa, Queensland, 4886, Australia",
+"boundingbox": [
+"-17.4749398",
+"-17.4748398",
+"145.6563967",
+"145.6564967"
+]
+}
+],
+"Curtain Fig Tree": [
+{
+"place_id": 27465544,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 835333948,
+"lat": "-17.2860335",
+"lon": "145.5739808",
+"class": "natural",
+"type": "tree",
+"place_rank": 30,
+"importance": 5.081788357361742e-05,
+"addresstype": "natural",
+"name": "Curtain Fig Tree",
+"display_name": "Curtain Fig Tree, Curtain Fig Tree Boardwalk, East Barron, Queensland, 4883, Australia",
+"boundingbox": [
+"-17.2860835",
+"-17.2859835",
+"145.5739308",
+"145.5740308"
+]
+}
+],
+"Peterson Creek, Yungaburra": [
+{
+"place_id": 27490183,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "way",
+"osm_id": 138715033,
+"lat": "-17.2883165",
+"lon": "145.5802397",
+"class": "waterway",
+"type": "stream",
+"place_rank": 22,
+"importance": 0.1067174845502403,
+"addresstype": "stream",
+"name": "Peterson Creek",
+"display_name": "Peterson Creek, Peeramon, Yungaburra, Queensland, 4884, Australia",
+"boundingbox": [
+"-17.2946155",
+"-17.2352785",
+"145.5736520",
+"145.6299170"
+]
+}
+],
+"Yungaburra": [
+{
+"place_id": 27785692,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 11677201,
+"lat": "-17.2700895",
+"lon": "145.5842778",
+"class": "boundary",
+"type": "administrative",
+"place_rank": 18,
+"importance": 0.36664364446418835,
+"addresstype": "town",
+"name": "Yungaburra",
+"display_name": "Yungaburra, Queensland, Australia",
+"boundingbox": [
+"-17.2944010",
+"-17.2478980",
+"145.5736080",
+"145.6267400"
+]
+}
+],
+"Lake Eacham": [
+{
+"place_id": 27175089,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 16347106,
+"lat": "-17.2848419",
+"lon": "145.6254589",
+"class": "natural",
+"type": "water",
+"place_rank": 22,
+"importance": 0.3041636407631838,
+"addresstype": "water",
+"name": "Lake Eacham",
+"display_name": "Lake Eacham, Queensland, Australia",
+"boundingbox": [
+"-17.2880702",
+"-17.2816137",
+"145.6215826",
+"145.6302327"
+]
+},
+{
+"place_id": 27177247,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 11677191,
+"lat": "-17.2997365",
+"lon": "145.6491295",
+"class": "boundary",
+"type": "administrative",
+"place_rank": 18,
+"importance": 0.2647815871063118,
+"addresstype": "city_district",
+"name": "Lake Eacham",
+"display_name": "Lake Eacham, Queensland, Australia",
+"boundingbox": [
+"-17.3329310",
+"-17.2665940",
+"145.6110920",
+"145.6816819"
+]
+},
+{
+"place_id": 27183077,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 6036336511,
+"lat": "-17.3027763",
+"lon": "145.6452789",
+"class": "place",
+"type": "locality",
+"place_rank": 25,
+"importance": 0.06671748455024032,
+"addresstype": "locality",
+"name": "Lake Eacham",
+"display_name": "Lake Eacham, Queensland, 4884, Australia",
+"boundingbox": [
+"-17.3127763",
+"-17.2927763",
+"145.6352789",
+"145.6552789"
+]
+}
+],
+"Lake Barrine": [
+{
+"place_id": 27199234,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 11677190,
+"lat": "-17.2679090",
+"lon": "145.6362198",
+"class": "boundary",
+"type": "administrative",
+"place_rank": 18,
+"importance": 0.2647815871063118,
+"addresstype": "hamlet",
+"name": "Lake Barrine",
+"display_name": "Lake Barrine, Queensland, Australia",
+"boundingbox": [
+"-17.2748830",
+"-17.2153050",
+"145.6145670",
+"145.6693660"
+]
+},
+{
+"place_id": 27187664,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 16347107,
+"lat": "-17.2501992",
+"lon": "145.6357063",
+"class": "natural",
+"type": "water",
+"place_rank": 22,
+"importance": 0.1067174845502403,
+"addresstype": "water",
+"name": "Lake Barrine",
+"display_name": "Lake Barrine, Queensland, Australia",
+"boundingbox": [
+"-17.2551377",
+"-17.2452677",
+"145.6303375",
+"145.6430306"
+]
+}
+],
+"Gillies Lookout": [
+{
+"place_id": 27463294,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 5061263867,
+"lat": "-17.1705942",
+"lon": "145.6888599",
+"class": "tourism",
+"type": "viewpoint",
+"place_rank": 30,
+"importance": 4.785610742346864e-05,
+"addresstype": "tourism",
+"name": "Gillies Lookout",
+"display_name": "Gillies Lookout, Gillies Lookout Track, Lamb Range, Queensland, 4884, Australia",
+"boundingbox": [
+"-17.1706442",
+"-17.1705442",
+"145.6888099",
+"145.6889099"
+]
+}
+],
+"Hobart International Airport": [
+{
+"place_id": 24006544,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 12208275391,
+"lat": "-42.8371224",
+"lon": "147.5041360",
+"class": "highway",
+"type": "bus_stop",
+"place_rank": 30,
+"importance": 6.942931258101804e-05,
+"addresstype": "highway",
+"name": "Hobart International Airport",
+"display_name": "Hobart International Airport, 6, Hinkler Road, Cambridge, Tasmania, 7170, Australia",
+"boundingbox": [
+"-42.8371724",
+"-42.8370724",
+"147.5040860",
+"147.5041860"
+]
+}
+],
+"Hobart": [
+{
+"place_id": 24337559,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 10632745,
+"lat": "-42.8825088",
+"lon": "147.3281233",
+"class": "place",
+"type": "city",
+"place_rank": 16,
+"importance": 0.6232599963964325,
+"addresstype": "city",
+"name": "Hobart",
+"display_name": "Hobart, Tasmania, Australia",
+"boundingbox": [
+"-43.1036150",
+"-42.6553760",
+"147.0916880",
+"147.6455880"
+]
+},
+{
+"place_id": 24287992,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 10625466,
+"lat": "-42.8938510",
+"lon": "147.2720858",
+"class": "boundary",
+"type": "administrative",
+"place_rank": 12,
+"importance": 0.38656660986684044,
+"addresstype": "municipality",
+"name": "City of Hobart",
+"display_name": "City of Hobart, Hobart, Tasmania, Australia",
+"boundingbox": [
+"-42.9431440",
+"-42.8445880",
+"147.1957490",
+"147.3621330"
+]
+}
+],
+"Salamanca Place": [
+{
+"place_id": 24225582,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "way",
+"osm_id": 741879338,
+"lat": "-42.8865712",
+"lon": "147.3315529",
+"class": "highway",
+"type": "unclassified",
+"place_rank": 26,
+"importance": 0.33711216279521466,
+"addresstype": "road",
+"name": "Salamanca Place",
+"display_name": "Salamanca Place, Hobart, Tasmania, 7000, Australia",
+"boundingbox": [
+"-42.8866772",
+"-42.8863995",
+"147.3308558",
+"147.3322574"
+]
+},
+{
+"place_id": 24217680,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "way",
+"osm_id": 1031567858,
+"lat": "-42.8871565",
+"lon": "147.3369034",
+"class": "highway",
+"type": "service",
+"place_rank": 27,
+"importance": 0.33711216279521466,
+"addresstype": "road",
+"name": "Salamanca Place",
+"display_name": "Salamanca Place, Battery Point, Hobart, Tasmania, 7004, Australia",
+"boundingbox": [
+"-42.8873394",
+"-42.8869612",
+"147.3365461",
+"147.3372683"
+]
+}
+],
+"Bonorong Wildlife Sanctuary": [
+{
+"place_id": 24385130,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "way",
+"osm_id": 255750278,
+"lat": "-42.7092183",
+"lon": "147.2715494",
+"class": "tourism",
+"type": "zoo",
+"place_rank": 30,
+"importance": 0.3172483997907332,
+"addresstype": "tourism",
+"name": "Bonorong Wildlife Sanctuary",
+"display_name": "Bonorong Wildlife Sanctuary, 593, Briggs Road, Honeywood, Brighton, Tasmania, 7030, Australia",
+"boundingbox": [
+"-42.7099204",
+"-42.7085900",
+"147.2698311",
+"147.2734727"
+]
+}
+],
+"Richmond Bridge": [
+{
+"place_id": 24402767,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "way",
+"osm_id": 676130629,
+"lat": "-42.7338298",
+"lon": "147.4399809",
+"class": "man_made",
+"type": "bridge",
+"place_rank": 30,
+"importance": 0.35352855872429106,
+"addresstype": "man_made",
+"name": "Richmond Bridge",
+"display_name": "Richmond Bridge, Wellington Street, Hobart, Tasmania, 7025, Australia",
+"boundingbox": [
+"-42.7338972",
+"-42.7337625",
+"147.4396463",
+"147.4403168"
+]
+}
+],
+"Spiky Bridge": [
+{
+"place_id": 24233289,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "way",
+"osm_id": 32122388,
+"lat": "-42.1865222",
+"lon": "148.0647776",
+"class": "highway",
+"type": "unclassified",
+"place_rank": 26,
+"importance": 0.053376576638437444,
+"addresstype": "road",
+"name": "Spiky Bridge",
+"display_name": "Spiky Bridge, Swansea, Tasmania, 7190, Australia",
+"boundingbox": [
+"-42.1867403",
+"-42.1863042",
+"148.0646836",
+"148.0648715"
+]
+},
+{
+"place_id": 24248645,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 4192526592,
+"lat": "-42.1865319",
+"lon": "148.0648505",
+"class": "tourism",
+"type": "attraction",
+"place_rank": 30,
+"importance": 4.3243305104097314e-05,
+"addresstype": "tourism",
+"name": "Spiky Bridge",
+"display_name": "Spiky Bridge, Swansea, Tasmania, 7190, Australia",
+"boundingbox": [
+"-42.1865819",
+"-42.1864819",
+"148.0648005",
+"148.0649005"
+]
+}
+],
+"Coles Bay": [
+{
+"place_id": 24295295,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 10621846,
+"lat": "-42.1252180",
+"lon": "148.2885381",
+"class": "boundary",
+"type": "administrative",
+"place_rank": 18,
+"importance": 0.2844781372993679,
+"addresstype": "town",
+"name": "Coles Bay",
+"display_name": "Coles Bay, Tasmania, Australia",
+"boundingbox": [
+"-42.1470300",
+"-42.0014420",
+"148.1529350",
+"148.3453967"
+]
+},
+{
+"place_id": 24396221,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 3020491524,
+"lat": "-42.1328052",
+"lon": "148.2928481",
+"class": "natural",
+"type": "bay",
+"place_rank": 22,
+"importance": 0.10670166857404438,
+"addresstype": "bay",
+"name": "Coles Bay",
+"display_name": "Coles Bay, Tasmania, Australia",
+"boundingbox": [
+"-42.1328552",
+"-42.1327552",
+"148.2927981",
+"148.2928981"
+]
+}
+],
+"Wineglass Bay Lookout": [
+{
+"place_id": 24226425,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 321396911,
+"lat": "-42.1549395",
+"lon": "148.2935732",
+"class": "tourism",
+"type": "viewpoint",
+"place_rank": 30,
+"importance": 4.3243305104097314e-05,
+"addresstype": "tourism",
+"name": "Wineglass Bay Lookout",
+"display_name": "Wineglass Bay Lookout, Wineglass Bay Lookout Track, Tasmania, Australia",
+"boundingbox": [
+"-42.1549895",
+"-42.1548895",
+"148.2935232",
+"148.2936232"
+]
+}
+],
+"Honeymoon Bay": [
+{
+"place_id": 24219788,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 4863564128,
+"lat": "-42.1387556",
+"lon": "148.2968071",
+"class": "natural",
+"type": "bay",
+"place_rank": 22,
+"importance": 0.2548773901198179,
+"addresstype": "bay",
+"name": "Honeymoon Bay",
+"display_name": "Honeymoon Bay, Tasmania, Australia",
+"boundingbox": [
+"-42.1388056",
+"-42.1387056",
+"148.2967571",
+"148.2968571"
+]
+},
+{
+"place_id": 24062174,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 33272646,
+"lat": "-35.0565322",
+"lon": "150.7785207",
+"class": "place",
+"type": "hamlet",
+"place_rank": 20,
+"importance": 0.1333850209811551,
+"addresstype": "hamlet",
+"name": "Honeymoon Bay",
+"display_name": "Honeymoon Bay, New South Wales, Australia",
+"boundingbox": [
+"-35.0765322",
+"-35.0365322",
+"150.7585207",
+"150.7985207"
+]
+},
+{
+"place_id": 30157969,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 4750822974,
+"lat": "-14.1042638",
+"lon": "126.6804584",
+"class": "place",
+"type": "hamlet",
+"place_rank": 20,
+"importance": 0.1333803822384985,
+"addresstype": "hamlet",
+"name": "Honeymoon Bay",
+"display_name": "Honeymoon Bay, Drysdale River, Western Australia, 6740, Australia",
+"boundingbox": [
+"-14.1242638",
+"-14.0842638",
+"126.6604584",
+"126.7004584"
+]
+}
+],
+"Cape Tourville Lighthouse": [
+{
+"place_id": 24030671,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "way",
+"osm_id": 993207718,
+"lat": "-42.1227327",
+"lon": "148.3426114",
+"class": "building",
+"type": "yes",
+"place_rank": 30,
+"importance": 0.11734328469919902,
+"addresstype": "building",
+"name": "Cape Tourville Lighthouse",
+"display_name": "Cape Tourville Lighthouse, Cape Tourville Circuit, Coles Bay, Tasmania, 7215, Australia",
+"boundingbox": [
+"-42.1227547",
+"-42.1226993",
+"148.3425829",
+"148.3426542"
+]
+},
+{
+"place_id": 24029406,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 4682752118,
+"lat": "-42.1227113",
+"lon": "148.3426390",
+"class": "man_made",
+"type": "lighthouse",
+"place_rank": 30,
+"importance": 2.6000610360830357e-05,
+"addresstype": "man_made",
+"name": "Cape Tourville Lighthouse",
+"display_name": "Cape Tourville Lighthouse, Cape Tourville Circuit, Coles Bay, Tasmania, 7215, Australia",
+"boundingbox": [
+"-42.1227613",
+"-42.1226613",
+"148.3425890",
+"148.3426890"
+]
+}
+],
+"Mount Amos": [
+{
+"place_id": 28913644,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 2842152262,
+"lat": "-15.6980556",
+"lon": "145.3069444",
+"class": "natural",
+"type": "peak",
+"place_rank": 18,
+"importance": 0.16004691157396808,
+"addresstype": "peak",
+"name": "Mount Amos",
+"display_name": "Mount Amos, Queensland, Australia",
+"boundingbox": [
+"-15.6981056",
+"-15.6980056",
+"145.3068944",
+"145.3069944"
+]
+},
+{
+"place_id": 24353559,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 3260073449,
+"lat": "-42.1536450",
+"lon": "148.2994970",
+"class": "natural",
+"type": "peak",
+"place_rank": 18,
+"importance": 0.16004324330510414,
+"addresstype": "peak",
+"name": "Mount Amos",
+"display_name": "Mount Amos, Tasmania, Australia",
+"boundingbox": [
+"-42.1536950",
+"-42.1535950",
+"148.2994470",
+"148.2995470"
+]
+}
+],
+"Friendly Beaches": [
+{
+"place_id": 24379939,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 10621836,
+"lat": "-41.9873462",
+"lon": "148.2872565",
+"class": "boundary",
+"type": "administrative",
+"place_rank": 18,
+"importance": 0.13337657663843747,
+"addresstype": "hamlet",
+"name": "Friendly Beaches",
+"display_name": "Friendly Beaches, Tasmania, Australia",
+"boundingbox": [
+"-42.0593720",
+"-41.9573140",
+"148.2152100",
+"148.3001005"
+]
+},
+{
+"place_id": 24358245,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 194799,
+"lat": "-42.0249731",
+"lon": "148.2834726",
+"class": "natural",
+"type": "beach",
+"place_rank": 22,
+"importance": 0.10670990997177078,
+"addresstype": "beach",
+"name": "Friendly Beaches",
+"display_name": "Friendly Beaches, Coles Bay, Tasmania, 7215, Australia",
+"boundingbox": [
+"-42.0585972",
+"-41.9631963",
+"148.2822454",
+"148.3021889"
+]
+}
+],
+"Bicheno Blowhole": [
+{
+"place_id": 23937721,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 2638346517,
+"lat": "-41.8801923",
+"lon": "148.3088867",
+"class": "natural",
+"type": "blowhole",
+"place_rank": 22,
+"importance": 0.10670990997177078,
+"addresstype": "blowhole",
+"name": "Bicheno Blowhole",
+"display_name": "Bicheno Blowhole, Bicheno, Tasmania, 7215, Australia",
+"boundingbox": [
+"-41.8802423",
+"-41.8801423",
+"148.3088367",
+"148.3089367"
+]
+}
+],
+"St Helens, Tasmania": [
+{
+"place_id": 24126805,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 10577596,
+"lat": "-41.3236306",
+"lon": "148.2493858",
+"class": "boundary",
+"type": "administrative",
+"place_rank": 18,
+"importance": 0.34431618017923493,
+"addresstype": "town",
+"name": "St Helens",
+"display_name": "St Helens, Tasmania, Australia",
+"boundingbox": [
+"-41.4208750",
+"-41.2058310",
+"148.0917410",
+"148.3099917"
+]
+}
+],
+"Binalong Bay": [
+{
+"place_id": 24249029,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 10577594,
+"lat": "-41.2489900",
+"lon": "148.3121500",
+"class": "boundary",
+"type": "administrative",
+"place_rank": 18,
+"importance": 0.25876906166717667,
+"addresstype": "village",
+"name": "Binalong Bay",
+"display_name": "Binalong Bay, Tasmania, Australia",
+"boundingbox": [
+"-41.3048020",
+"-41.2020870",
+"148.2269850",
+"148.3386341"
+]
+},
+{
+"place_id": 24204054,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 597971749,
+"lat": "-41.2520110",
+"lon": "148.3047720",
+"class": "natural",
+"type": "beach",
+"place_rank": 22,
+"importance": 0.10669136720836192,
+"addresstype": "beach",
+"name": "Binalong Bay",
+"display_name": "Binalong Bay, Tasmania, 7216, Australia",
+"boundingbox": [
+"-41.2520610",
+"-41.2519610",
+"148.3047220",
+"148.3048220"
+]
+}
+],
+"The Gardens, Tasmania": [
+{
+"place_id": 23850993,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 10577620,
+"lat": "-41.1669597",
+"lon": "148.2829525",
+"class": "boundary",
+"type": "administrative",
+"place_rank": 18,
+"importance": 0.13335663309681847,
+"addresstype": "hamlet",
+"name": "The Gardens",
+"display_name": "The Gardens, Tasmania, Australia",
+"boundingbox": [
+"-41.2223200",
+"-41.0982568",
+"148.1979587",
+"148.2852637"
+]
+},
+{
+"place_id": 23814363,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 4969515921,
+"lat": "-41.1633907",
+"lon": "148.2827015",
+"class": "tourism",
+"type": "attraction",
+"place_rank": 30,
+"importance": 2.329976348511509e-05,
+"addresstype": "tourism",
+"name": "The Gardens",
+"display_name": "The Gardens, Gardens Road, The Gardens, Tasmania, 7216, Australia",
+"boundingbox": [
+"-41.1634407",
+"-41.1633407",
+"148.2826515",
+"148.2827515"
+]
+}
+],
+"Cosy Corner, Bay of Fires": [],
+"Weldborough Pass": [
+{
+"place_id": 24146705,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 6214103,
+"lat": "-41.2148541",
+"lon": "147.9442165",
+"class": "leisure",
+"type": "nature_reserve",
+"place_rank": 24,
+"importance": 0.08004472953383684,
+"addresstype": "nature_reserve",
+"name": "Weldborough Pass State Reserve",
+"display_name": "Weldborough Pass State Reserve, Weldborough, Tasmania, 7264, Australia",
+"boundingbox": [
+"-41.2243126",
+"-41.2073002",
+"147.9247630",
+"147.9560239"
+]
+},
+{
+"place_id": 24138535,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "way",
+"osm_id": 142432393,
+"lat": "-41.2161420",
+"lon": "147.9382812",
+"class": "highway",
+"type": "path",
+"place_rank": 27,
+"importance": 0.04004472953383687,
+"addresstype": "road",
+"name": "Weldborough Pass Rainforest Walk",
+"display_name": "Weldborough Pass Rainforest Walk, Weldborough, Tasmania, 7264, Australia",
+"boundingbox": [
+"-41.2165563",
+"-41.2157803",
+"147.9380461",
+"147.9385553"
+]
+}
+],
+"Sheffield, Tasmania": [
+{
+"place_id": 24312814,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 10597627,
+"lat": "-41.3818415",
+"lon": "146.3271826",
+"class": "boundary",
+"type": "administrative",
+"place_rank": 18,
+"importance": 0.3022467077917196,
+"addresstype": "town",
+"name": "Sheffield",
+"display_name": "Sheffield, Tasmania, Australia",
+"boundingbox": [
+"-41.4285610",
+"-41.3449160",
+"146.2678790",
+"146.4033200"
+]
+}
+],
+"Cradle Mountain Visitor Centre": [
+{
+"place_id": 24088673,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "way",
+"osm_id": 673247254,
+"lat": "-41.5820505",
+"lon": "145.9372562",
+"class": "amenity",
+"type": "parking",
+"place_rank": 30,
+"importance": 4.1163500419577594e-05,
+"addresstype": "amenity",
+"name": "Cradle Mountain Visitor Centre Parking",
+"display_name": "Cradle Mountain Visitor Centre Parking, Cradle Mountain Road, Cradle Mountain, Tasmania, 7306, Australia",
+"boundingbox": [
+"-41.5827199",
+"-41.5811545",
+"145.9366079",
+"145.9381142"
+]
+},
+{
+"place_id": 24103953,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "way",
+"osm_id": 673247258,
+"lat": "-41.5834613",
+"lon": "145.9369068",
+"class": "information",
+"type": "office",
+"place_rank": 30,
+"importance": 4.1163500419577594e-05,
+"addresstype": "information",
+"name": "Cradle Mountain Visitor Centre and Transit Terminal",
+"display_name": "Cradle Mountain Visitor Centre and Transit Terminal, 3845, Cradle Mountain Road, Cradle Mountain, Tasmania, 7306, Australia",
+"boundingbox": [
+"-41.5836587",
+"-41.5832837",
+"145.9366967",
+"145.9370582"
+]
+},
+{
+"place_id": 24153938,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 2389015043,
+"lat": "-41.5839961",
+"lon": "145.9359805",
+"class": "highway",
+"type": "bus_stop",
+"place_rank": 30,
+"importance": 4.1163500419577594e-05,
+"addresstype": "highway",
+"name": "Visitor Centre - Cradle Shuttle Bus",
+"display_name": "Visitor Centre - Cradle Shuttle Bus, Cradle Mountain Road, Cradle Mountain, Tasmania, 7306, Australia",
+"boundingbox": [
+"-41.5840461",
+"-41.5839461",
+"145.9359305",
+"145.9360305"
+]
+}
+],
+"Dove Lake": [
+{
+"place_id": 24258746,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 3007274,
+"lat": "-41.6604066",
+"lon": "145.9614099",
+"class": "water",
+"type": "lake",
+"place_rank": 20,
+"importance": 0.2763378134411431,
+"addresstype": "lake",
+"name": "Dove Lake",
+"display_name": "Dove Lake, Cradle Mountain, Tasmania, 7306, Australia",
+"boundingbox": [
+"-41.6697009",
+"-41.6511171",
+"145.9560880",
+"145.9658405"
+]
+}
+],
+"Ronny Creek": [
+{
+"place_id": 24166617,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "way",
+"osm_id": 231658205,
+"lat": "-41.6461659",
+"lon": "145.9358631",
+"class": "waterway",
+"type": "stream",
+"place_rank": 22,
+"importance": 0.10670783016708627,
+"addresstype": "stream",
+"name": "Ronny Creek",
+"display_name": "Ronny Creek, Cradle Mountain, Tasmania, 7306, Australia",
+"boundingbox": [
+"-41.6599602",
+"-41.6359158",
+"145.9241838",
+"145.9500204"
+]
+},
+{
+"place_id": 24217329,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 2342921674,
+"lat": "-41.6360437",
+"lon": "145.9494189",
+"class": "place",
+"type": "isolated_dwelling",
+"place_rank": 22,
+"importance": 0.10670783016708627,
+"addresstype": "isolated_dwelling",
+"name": "Ronny Creek",
+"display_name": "Ronny Creek, Cradle Valley, Cradle Mountain, Tasmania, 7306, Australia",
+"boundingbox": [
+"-41.6360937",
+"-41.6359937",
+"145.9493689",
+"145.9494689"
+]
+}
+],
+"Launceston Airport": [
+{
+"place_id": 24281560,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "way",
+"osm_id": 110476684,
+"lat": "-41.5434413",
+"lon": "147.2116284",
+"class": "aeroway",
+"type": "aerodrome",
+"place_rank": 30,
+"importance": 0.43561499490559125,
+"addresstype": "aeroway",
+"name": "Launceston Airport",
+"display_name": "Launceston Airport, 201, Evandale Road, Western Junction, Tasmania, 7212, Australia",
+"boundingbox": [
+"-41.5544714",
+"-41.5333915",
+"147.1999892",
+"147.2221498"
+]
+},
+{
+"place_id": 24300659,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "way",
+"osm_id": 193612716,
+"lat": "-41.5430434",
+"lon": "147.2059358",
+"class": "aeroway",
+"type": "terminal",
+"place_rank": 30,
+"importance": 4.375295643544697e-05,
+"addresstype": "aeroway",
+"name": "Launceston Airport",
+"display_name": "Launceston Airport, Short Term Parking, Western Junction, Tasmania, 7212, Australia",
+"boundingbox": [
+"-41.5436478",
+"-41.5424082",
+"147.2052707",
+"147.2065922"
+]
+},
+{
+"place_id": 24300043,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 1980646974,
+"lat": "-41.5430247",
+"lon": "147.2053150",
+"class": "amenity",
+"type": "post_box",
+"place_rank": 30,
+"importance": 4.375295643544697e-05,
+"addresstype": "amenity",
+"name": "Launceston Airport",
+"display_name": "Launceston Airport, 201, Evandale Road, Western Junction, Tasmania, 7212, Australia",
+"boundingbox": [
+"-41.5430747",
+"-41.5429747",
+"147.2052650",
+"147.2053650"
+]
+}
+],
+"Churchill Island": [
+{
+"place_id": 20253849,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 5586901,
+"lat": "-38.5010632",
+"lon": "145.3384531",
+"class": "place",
+"type": "island",
+"place_rank": 17,
+"importance": 0.2861574737770128,
+"addresstype": "island",
+"name": "Churchill Island",
+"display_name": "Churchill Island, Victoria, 3925, Australia",
+"boundingbox": [
+"-38.5088385",
+"-38.4931231",
+"145.3328639",
+"145.3462159"
+]
+},
+{
+"place_id": 20289515,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 11693213,
+"lat": "-38.5010255",
+"lon": "145.3386446",
+"class": "boundary",
+"type": "administrative",
+"place_rank": 18,
+"importance": 0.16004780270084687,
+"addresstype": "city_district",
+"name": "Churchill Island",
+"display_name": "Churchill Island, Victoria, Australia",
+"boundingbox": [
+"-38.5087590",
+"-38.4934130",
+"145.3329460",
+"145.3460650"
+]
+}
+],
+"Koala Conservation Reserve": [
+{
+"place_id": 19717179,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "way",
+"osm_id": 28204365,
+"lat": "-38.4842718",
+"lon": "145.2635398",
+"class": "tourism",
+"type": "zoo",
+"place_rank": 30,
+"importance": 4.7802700846830204e-05,
+"addresstype": "tourism",
+"name": "Koala Conservation Reserve",
+"display_name": "Koala Conservation Reserve, 1820, Phillip Island Road, Rhyll, Victoria, 3923, Australia",
+"boundingbox": [
+"-38.4875290",
+"-38.4821205",
+"145.2577310",
+"145.2671103"
+]
+}
+],
+"The Nobbies": [
+{
+"place_id": 29096592,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 2844263995,
+"lat": "-19.7858333",
+"lon": "140.4530556",
+"class": "natural",
+"type": "peak",
+"place_rank": 18,
+"importance": 0.16004327077134353,
+"addresstype": "peak",
+"name": "The Nobbies",
+"display_name": "The Nobbies, Queensland, Australia",
+"boundingbox": [
+"-19.7858833",
+"-19.7857833",
+"140.4530056",
+"140.4531056"
+]
+},
+{
+"place_id": 20346319,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "way",
+"osm_id": 32286589,
+"lat": "-38.5185254",
+"lon": "145.1141293",
+"class": "place",
+"type": "islet",
+"place_rank": 20,
+"importance": 0.1333433333333333,
+"addresstype": "islet",
+"name": "The Nobbies",
+"display_name": "The Nobbies, Victoria, Australia",
+"boundingbox": [
+"-38.5189609",
+"-38.5181133",
+"145.1132627",
+"145.1151196"
+]
+}
+],
+"Penguin Parade": [
+{
+"place_id": 23546891,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "way",
+"osm_id": 173696411,
+"lat": "-33.9153568",
+"lon": "150.8655128",
+"class": "highway",
+"type": "residential",
+"place_rank": 26,
+"importance": 0.05341579385061414,
+"addresstype": "road",
+"name": "Penguin Parade",
+"display_name": "Penguin Parade, Hinchinbrook, Sydney, New South Wales, 2168, Australia",
+"boundingbox": [
+"-33.9165061",
+"-33.9144576",
+"150.8648763",
+"150.8664164"
+]
+},
+{
+"place_id": 28546800,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "way",
+"osm_id": 53624064,
+"lat": "-28.0790318",
+"lon": "153.4395314",
+"class": "highway",
+"type": "residential",
+"place_rank": 26,
+"importance": 0.05340034561684592,
+"addresstype": "road",
+"name": "Penguin Parade",
+"display_name": "Penguin Parade, Burleigh Waters, Gold Coast, Queensland, 4220, Australia",
+"boundingbox": [
+"-28.0791938",
+"-28.0787225",
+"153.4385910",
+"153.4404501"
+]
+},
+{
+"place_id": 20396781,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "way",
+"osm_id": 677337738,
+"lat": "-38.5089712",
+"lon": "145.1487723",
+"class": "tourism",
+"type": "attraction",
+"place_rank": 30,
+"importance": 4.7802700846830204e-05,
+"addresstype": "tourism",
+"name": "Penguin Parade",
+"display_name": "Penguin Parade, 1009, Ventnor Road, Summerlands, Victoria, 3922, Australia",
+"boundingbox": [
+"-38.5117483",
+"-38.5054178",
+"145.1453372",
+"145.1508239"
+]
+}
+],
+"Cowes, Victoria": [
+{
+"place_id": 19526625,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 2451547,
+"lat": "-38.4502447",
+"lon": "145.2389787",
+"class": "boundary",
+"type": "administrative",
+"place_rank": 18,
+"importance": 0.32901661879114147,
+"addresstype": "town",
+"name": "Cowes",
+"display_name": "Cowes, Victoria, Australia",
+"boundingbox": [
+"-38.4970230",
+"-38.4460636",
+"145.1939950",
+"145.2665320"
+]
+}
+],
+"Wildlife Walk, Wilsons Promontory": [
+{
+"place_id": 20351387,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "way",
+"osm_id": 1001934619,
+"lat": "-38.9497661",
+"lon": "146.2833503",
+"class": "highway",
+"type": "path",
+"place_rank": 27,
+"importance": 0.04004707942320896,
+"addresstype": "road",
+"name": "Prom Wildlife Walk",
+"display_name": "Prom Wildlife Walk, Wilsons Promontory, Victoria, 3960, Australia",
+"boundingbox": [
+"-38.9499794",
+"-38.9478497",
+"146.2739595",
+"146.2845612"
+]
+}
+],
+"Squeaky Beach": [
+{
+"place_id": 20356776,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "way",
+"osm_id": 45041177,
+"lat": "-39.0249506",
+"lon": "146.3051504",
+"class": "natural",
+"type": "beach",
+"place_rank": 22,
+"importance": 0.10670102006561377,
+"addresstype": "beach",
+"name": "Squeaky Beach",
+"display_name": "Squeaky Beach, Wilsons Promontory, Victoria, 3960, Australia",
+"boundingbox": [
+"-39.0280751",
+"-39.0219636",
+"146.3026188",
+"146.3081377"
+]
+},
+{
+"place_id": 18812969,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "way",
+"osm_id": 361722205,
+"lat": "-34.6806015",
+"lon": "135.9192307",
+"class": "natural",
+"type": "beach",
+"place_rank": 22,
+"importance": 0.10669266727702752,
+"addresstype": "beach",
+"name": "Squeaky Beach",
+"display_name": "Squeaky Beach, South Australia, Australia",
+"boundingbox": [
+"-34.6836255",
+"-34.6775154",
+"135.9177467",
+"135.9229961"
+]
+}
+],
+"Mount Oberon": [
+{
+"place_id": 20519302,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 686660147,
+"lat": "-39.0403097",
+"lon": "146.3448574",
+"class": "natural",
+"type": "peak",
+"place_rank": 18,
+"importance": 0.16004707942320895,
+"addresstype": "peak",
+"name": "Mount Oberon",
+"display_name": "Mount Oberon, Victoria, Australia",
+"boundingbox": [
+"-39.0403597",
+"-39.0402597",
+"146.3448074",
+"146.3449074"
+]
+},
+{
+"place_id": 23190080,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 664266484,
+"lat": "-33.6196011",
+"lon": "149.7743226",
+"class": "natural",
+"type": "peak",
+"place_rank": 18,
+"importance": 0.16004237201495383,
+"addresstype": "peak",
+"name": "Mount Oberon",
+"display_name": "Mount Oberon, Oberon, New South Wales, 2787, Australia",
+"boundingbox": [
+"-33.6196511",
+"-33.6195511",
+"149.7742726",
+"149.7743726"
+]
+}
+],
+"Tidal River": [
+{
+"place_id": 20245165,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "way",
+"osm_id": 170095983,
+"lat": "-39.0134711",
+"lon": "146.3459540",
+"class": "waterway",
+"type": "river",
+"place_rank": 19,
+"importance": 0.35810617938020467,
+"addresstype": "river",
+"name": "Tidal River",
+"display_name": "Tidal River, Wilsons Promontory, Victoria, 3960, Australia",
+"boundingbox": [
+"-39.0277358",
+"-39.0102515",
+"146.3285569",
+"146.3708826"
+]
+},
+{
+"place_id": 20487069,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 150984712,
+"lat": "-39.0302707",
+"lon": "146.3218352",
+"class": "place",
+"type": "hamlet",
+"place_rank": 20,
+"importance": 0.29892160108322774,
+"addresstype": "hamlet",
+"name": "Tidal River",
+"display_name": "Tidal River, Victoria, 3960, Australia",
+"boundingbox": [
+"-39.0502707",
+"-39.0102707",
+"146.3018352",
+"146.3418352"
+]
+},
+{
+"place_id": 20453863,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 11693289,
+"lat": "-39.0318585",
+"lon": "146.3205747",
+"class": "boundary",
+"type": "administrative",
+"place_rank": 18,
+"importance": 0.16004707942320895,
+"addresstype": "city_district",
+"name": "Tidal River",
+"display_name": "Tidal River, Victoria, Australia",
+"boundingbox": [
+"-39.0359650",
+"-39.0275560",
+"146.3140910",
+"146.3275510"
+]
+}
+],
+"Lilly Pilly Gully": [
+{
+"place_id": 20362637,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "way",
+"osm_id": 1444667443,
+"lat": "-39.0118126",
+"lon": "146.3371604",
+"class": "waterway",
+"type": "stream",
+"place_rank": 22,
+"importance": 0.10671374608987562,
+"addresstype": "stream",
+"name": "Lilly Pilly Gully",
+"display_name": "Lilly Pilly Gully, Wilsons Promontory, Victoria, 3960, Australia",
+"boundingbox": [
+"-39.0136875",
+"-39.0092180",
+"146.3364680",
+"146.3391768"
+]
+}
+],
+"Whisky Bay": [
+{
+"place_id": 20433723,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "way",
+"osm_id": 54516635,
+"lat": "-39.0122720",
+"lon": "146.2907445",
+"class": "natural",
+"type": "beach",
+"place_rank": 22,
+"importance": 0.10671374608987562,
+"addresstype": "beach",
+"name": "Whisky Bay",
+"display_name": "Whisky Bay, Wilsons Promontory, Victoria, 3960, Australia",
+"boundingbox": [
+"-39.0134901",
+"-39.0109809",
+"146.2897092",
+"146.2919152"
+]
+},
+{
+"place_id": 33798980,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 11771779134,
+"lat": "-20.4713893",
+"lon": "115.5477461",
+"class": "natural",
+"type": "bay",
+"place_rank": 22,
+"importance": 0.10671289311055158,
+"addresstype": "bay",
+"name": "Whisky Bay",
+"display_name": "Whisky Bay, Western Australia, Australia",
+"boundingbox": [
+"-20.4714393",
+"-20.4713393",
+"115.5476961",
+"115.5477961"
+]
+},
+{
+"place_id": 20542375,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 3020494571,
+"lat": "-39.0139400",
+"lon": "146.2843300",
+"class": "natural",
+"type": "bay",
+"place_rank": 22,
+"importance": 0.10667666666666664,
+"addresstype": "bay",
+"name": "Whisky Bay",
+"display_name": "Whisky Bay, Victoria, Australia",
+"boundingbox": [
+"-39.0139900",
+"-39.0138900",
+"146.2842800",
+"146.2843800"
+]
+}
+],
+"Korumburra": [
+{
+"place_id": 20098784,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 2651817,
+"lat": "-38.4321809",
+"lon": "145.8236012",
+"class": "boundary",
+"type": "administrative",
+"place_rank": 18,
+"importance": 0.31074813956852465,
+"addresstype": "town",
+"name": "Korumburra",
+"display_name": "Korumburra, Victoria, Australia",
+"boundingbox": [
+"-38.5022120",
+"-38.3752720",
+"145.7762000",
+"145.8706760"
+]
+}
+]
+}
